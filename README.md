@@ -2,7 +2,7 @@
 
 In this Repo i upload all task of internship .
 
-# Customer Delinquency Prediction – Tata GenAI Powered Data Analytics Job Simulation
+# Customer Delinquency Prediction – Tata GenAI Powered Data Analytics Job Simulation .
 
 This repository contains my submission for the Tata GenAI Powered Data Analytics Job Simulation on Forage, where I worked as a Data Analyst for a fictional financial services company, Geldium, to help predict and manage customer loan delinquency using data analysis, machine learning, and generative AI tools.
 
