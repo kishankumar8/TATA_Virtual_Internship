@@ -11,6 +11,7 @@ This repository contains my submission for the Tata GenAI Powered Data Analytics
 
 Delinquency — a customer failing to make timely payments — is a major risk for lenders. The goal of this project was to analyze customer financial and behavioral data, build a predictive model to flag customers likely to become delinquent, and translate those findings into actionable, responsible business recommendations for Geldium's Collections team.
 
+
 🗂️ Tasks Completed
 Task 1 – Exploratory Data Analysis: Explored the customer dataset, checked data quality, and identified missing values and key patterns.
 Task 2 – Predictive Model Plan: Built and trained a Logistic Regression model to predict delinquency, and documented the model logic, justification for the chosen algorithm, and an evaluation strategy.
