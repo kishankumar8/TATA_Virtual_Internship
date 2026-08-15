@@ -7,7 +7,7 @@ In this Repo i upload all task of internship .
 This repository contains my submission for the Tata GenAI Powered Data Analytics Job Simulation on Forage, where I worked as a Data Analyst for a fictional financial services company, Geldium, to help predict and manage customer loan delinquency using data analysis, machine learning, and generative AI tools.
 
 
-📌 Project Overview
+#📌 Project Overview
 
 Delinquency — a customer failing to make timely payments — is a major risk for lenders. The goal of this project was to analyze customer financial and behavioral data, build a predictive model to flag customers likely to become delinquent, and translate those findings into actionable, responsible business recommendations for Geldium's Collections team.
 
