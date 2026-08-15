@@ -23,9 +23,12 @@ Algorithm: Logistic Regression (scikit-learn)
 Target variable: Delinquent_Account (0 = Not Delinquent, 1 = Delinquent)
 Key features: Credit Score, Credit Utilization, Missed Payments, Debt-to-Income Ratio, Loan Balance, Employment Status, Account Tenure, and 6-month payment history
 Accuracy: 86% on a held-out test set (80/20 split)
+
+
 🛠️ Tech Stack
 Language: Python
 Libraries: pandas, NumPy, scikit-learn
+
 Tools: Jupyter Notebook, GenAI tools (for model logic drafting and ideation)
 📁 Repository Structure
 ├── intenship_submission.ipynb   # Data cleaning, model training & evaluation
