@@ -21,6 +21,7 @@ Task 4 – AI-Powered Collections Strategy: Designed a proposal for an agentic A
 
 
 # 🧠 Model Summary
+
 Algorithm: Logistic Regression (scikit-learn)
 Target variable: Delinquent_Account (0 = Not Delinquent, 1 = Delinquent)
 Key features: Credit Score, Credit Utilization, Missed Payments, Debt-to-Income Ratio, Loan Balance, Employment Status, Account Tenure, and 6-month payment history
