@@ -35,7 +35,7 @@ Tools: Jupyter Notebook, GenAI tools (for model logic drafting and ideation)
 └── README.md
 
 
-#🔑 Key Learnings
+# 🔑 Key Learnings
 Handling missing data and encoding categorical variables for machine learning models
 Building and evaluating a classification model for a real-world financial use case
 Communicating technical model results to a non-technical business audience
