@@ -28,7 +28,7 @@ Key features: Credit Score, Credit Utilization, Missed Payments, Debt-to-Income 
 Accuracy: 86% on a held-out test set (80/20 split)
 
 
-🛠️ Tech Stack 
+# 🛠️ Tech Stack 
 
 -> Language: Python
 Libraries: pandas, NumPy, scikit-learn
