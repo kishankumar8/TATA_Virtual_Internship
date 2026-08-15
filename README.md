@@ -31,9 +31,10 @@ Accuracy: 86% on a held-out test set (80/20 split)
 🛠️ Tech Stack
 Language: Python
 Libraries: pandas, NumPy, scikit-learn
-
 Tools: Jupyter Notebook, GenAI tools (for model logic drafting and ideation)
-📁 Repository Structure
+
+# 📁 Repository Structure
+
 ├── intenship_submission.ipynb   # Data cleaning, model training & evaluation
 ├── Task_2_Predictive_Model_Plan.pdf
 ├── Task_3_Business_Summary_Report.pdf
