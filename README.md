@@ -43,10 +43,16 @@ Accuracy: 86% on a held-out test set (80/20 split)
 # 📁 Repository Structure
 
 
-├── intenship_submission.ipynb   # Data cleaning, model training & evaluation
+├── intenship_submission.ipynb  
+
+# Data cleaning, model training & evaluation
+
 ├── Task_2_Predictive_Model_Plan.pdf
+
 ├── Task_3_Business_Summary_Report.pdf
+
 ├── Task_4_AI_Collections_Strategy.pptx / .pdf
+
 └── README.md
 
 
