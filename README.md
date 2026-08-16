@@ -39,6 +39,7 @@ Accuracy: 86% on a held-out test set (80/20 split)
 
 # 📁 Repository Structure
 
+
 ├── intenship_submission.ipynb   # Data cleaning, model training & evaluation
 ├── Task_2_Predictive_Model_Plan.pdf
 ├── Task_3_Business_Summary_Report.pdf
@@ -51,6 +52,8 @@ Handling missing data and encoding categorical variables for machine learning mo
 Building and evaluating a classification model for a real-world financial use case
 Communicating technical model results to a non-technical business audience
 Considering fairness, transparency, and ethical implications when deploying AI in financial decision-making
-🎓 Certification
+
+
+# 🎓 Certification
 
 This project was completed as part of the Tata GenAI Powered Data Analytics Job Simulation on Forage.
