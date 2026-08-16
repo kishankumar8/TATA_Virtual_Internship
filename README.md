@@ -14,13 +14,13 @@ Delinquency — a customer failing to make timely payments — is a major risk f
 
 # 🗂️ Tasks Completed
 
-->Task 1 – Exploratory Data Analysis: Explored the customer dataset, checked data quality, and identified missing values and key patterns.
+-> Task 1 – Exploratory Data Analysis: Explored the customer dataset, checked data quality, and identified missing values and key patterns.
 
-->Task 2 – Predictive Model Plan: Built and trained a Logistic Regression model to predict delinquency, and documented the model logic, justification for the chosen algorithm, and an evaluation strategy.
+-> Task 2 – Predictive Model Plan: Built and trained a Logistic Regression model to predict delinquency, and documented the model logic, justification for the chosen algorithm, and an evaluation strategy.
 
-->Task 3 – Business Summary Report: Translated model insights into a business-facing summary with SMART recommendations and ethical/responsible AI considerations for the Collections team.
-
-->Task 4 – AI-Powered Collections Strategy: Designed a proposal for an agentic AI system to automate and scale collections outreach, with responsible AI guardrails and expected business impact.
+-> Task 3 – Business Summary Report: Translated model insights into a business-facing summary with SMART recommendations and ethical/responsible AI considerations for the Collections team.
+ 
+-> Task 4 – AI-Powered Collections Strategy: Designed a proposal for an agentic AI system to automate and scale collections outreach, with responsible AI guardrails and expected business impact.
 
 
 # 🧠 Model Summary
