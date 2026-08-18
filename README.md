@@ -63,6 +63,4 @@ Communicating technical model results to a non-technical business audience
 Considering fairness, transparency, and ethical implications when deploying AI in financial decision-making
 
 
-# 🎓 Certification
 
-This project was completed as part of the Tata GenAI Powered Data Analytics Job Simulation on Forage.
