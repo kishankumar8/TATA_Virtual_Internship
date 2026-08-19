@@ -42,9 +42,8 @@ Accuracy: 86% on a held-out test set (80/20 split)
 
 # 📁 Repository Structure
 
-
+# Data cleaning, model training & evaluation
 ├── intenship_submission.ipynb  
-
 # Data cleaning, model training & evaluation
 
 ├── Task_2_Predictive_Model_Plan.pdf
