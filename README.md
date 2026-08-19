@@ -1,6 +1,6 @@
 # TATA_Virtual_Internship .
 
-In this Repo i upload all task of internship .
+In this Repository i upload all task of internship .
 
 # Customer Delinquency Prediction – Tata GenAI Powered Data Analytics Job Simulation .
 
