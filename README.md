@@ -58,10 +58,13 @@ Accuracy: 86% on a held-out test set (80/20 split)
 # 🔑 Key Learnings
 
 
-Handling missing data and encoding categorical variables for machine learning models
-Building and evaluating a classification model for a real-world financial use case
-Communicating technical model results to a non-technical business audience
-Considering fairness, transparency, and ethical implications when deploying AI in financial decision-making
+Handling missing data and encoding categorical variables for machine learning models .
+
+Building and evaluating a classification model for a real-world financial use case .
+
+Communicating technical model results to a non-technical business audience .
+
+Considering fairness, transparency, and ethical implications when deploying AI in financial decision-making .
 
 
 
